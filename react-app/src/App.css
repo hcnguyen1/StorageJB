@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: #333;
+}
+
+.Home {
+  background-color: #333;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Lobby */
+.Lobby {
+  background-color: #333;
+  color: white;
+  min-height: 100vh;
+}
+
+.navbar-brand, .navbar-nav, .navbar-link, .nav-link {
+  color: white !important;
+}
